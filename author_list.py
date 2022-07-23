@@ -88,7 +88,7 @@ authors = [
 {'name': 'Y.~Romanyuk', 'affiliations': ['Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'], 'email': ''},
 {'name': 'L.~Rousselot', 'affiliations': ["Soci\\'et\\'e Astronomique Populaire du Centre ,40 grande rue, 18340 Ar\\c{c}ay, France"], 'email': ''},
 {'name': 'F.~R\\"unger', 'affiliations': ['Institut f\\"ur Physik und Astronomie, Universit\\"at Potsdam, Karl-Liebknecht-Str. 24/25, D-14476 Potsdam, Germany'], 'email': ''},
-{'name': 'V.~Rupchandani', 'affiliations': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE', 'Brown University, Providence, RI 02912, United States'], 'email': 'g00089000@AUS.EDU'},
+{'name': 'V.~Rupchandani', 'affiliations': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE', 'Brown University, Providence, RI 02912, United States'], 'email': 'vini_rupchandani@brown.edu'},
 {'name': 'T.~Sadibekova', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan', "Universit\\'e Paris-Saclay, Universit\\'e Paris Cit\\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"], 'email': 'tatyana.sadibekova@CEA.FR'},
 {'name': 'N.~Sasaki', 'affiliations': ["Laborat\\'orio Nacional de Astrof\\'isica, R. dos Estados Unidos, 154 - Na\\c{c}\\~oes, Itajub\\'a - MG, 37504-364, Brazil"], 'email': ''},
 {'name': 'A.~Simon', 'affiliations': ['Astronomy and Space Physics Department, Taras Shevchenko National University of Kyiv, Glushkova ave., 4, Kyiv, 03022, Ukraine', 'National Center Junior academy of sciences of Ukraine, 38-44, Dehtiarivska St., Kyiv, 04119, Ukraine'], 'email': 'skazhenijandrew@GMAIL.COM'},
